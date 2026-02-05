@@ -1,0 +1,4 @@
+- Python (3.x)
+- pandas → data loading & cleaning
+- matplotlib → visualizations
+- seaborn → polished charts
